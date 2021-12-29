@@ -1,0 +1,53 @@
+.text{
+    color: white;
+}
+
+.header{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: peru;
+}
+
+.second-headers{
+    background-color: cornflowerblue;
+    font-size: 30px;
+}
+
+img{
+    height: 400px;
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.recipes{
+    text-align: center;
+    font-size: 20px;
+    background-color: rosybrown;
+}
+
+.description{
+    background-color: darkslategray;
+    font-size: 20px;
+}
+
+.ingredients{
+    background-color: darkolivegreen;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+.steps{
+    background-color: darkolivegreen;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.button{
+    background-color: peachpuff;
+    font-weight: bold;
+    font-size: 17px;
+    
+}
